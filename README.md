@@ -1,2 +1,2 @@
 # challenge_3
-challege 3 assignment
+challenge 3 assignment
